@@ -1,4 +1,4 @@
-package storageclasses;
+package com.kh.storages.storageclasses;
 
 import java.util.Iterator;
 import java.util.Random;

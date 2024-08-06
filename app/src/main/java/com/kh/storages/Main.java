@@ -1,10 +1,8 @@
-import storageclasses.ArrayList;
-import storageclasses.HashSet;
+package com.kh.storages;
 
+import com.kh.storages.storageclasses.*;
 import java.util.Iterator;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         testArrayList();
